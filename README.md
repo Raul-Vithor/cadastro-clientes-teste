@@ -8,5 +8,5 @@ que tipos de linguagem, o que é necessário baixar ou instalar para ele funcion
 para rodar esse projeto em sua máquina, digite
 
 ```
-npm install react
+sublime app.js
 ```
