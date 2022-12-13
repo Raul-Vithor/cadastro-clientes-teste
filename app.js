@@ -1,2 +1,5 @@
 console.log("Botando essa parada para mamar")
-console.log('LEITADA')
+console.log('TOMA NO CU')
+console.log('VAI SE FUDER')
+console.log('PORRA ESTRESSANTE DO CARALHO')
+console.log('ENFIA NO CU SEU FILHO DA PUTA AULA DE BOSTA')
